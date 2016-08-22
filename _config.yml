@@ -1,3 +1,4 @@
+layout_spectrum: 0.3557326316367835
 typography_spectrum: 0.7835990944877267
 color:
   brandStrength: 0.12810047320090234
@@ -5,11 +6,9 @@ color:
   saturation: 0.5725316912867129
   rhythmicContrast: 0.8501680477056652
   brandColors:
-    - '#F6F2D5'
-    - '#4BD4E4'
-    - '#1281B8'
-    - '#A31D00'
-    - '#000000'
-layout_spectrum: 0.3557326316367835
-name: Joe McKee
-title: Create > Engage > Inspire
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: Joe McKee - Create > Engage > Inspire
